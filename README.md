@@ -22,4 +22,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why and How I made DevXplore(search engine)?](https://medium.com/@suvansh94/why-and-how-i-made-devxplore-search-engine-edc1db774aa9?source=rss-3ac23aa0cb16------2)
+- [How to make Ubuntu look like Chrome OS ?](https://medium.com/tech-void/how-to-make-ubuntu-look-like-chrome-os-14d15acfc7b4?source=rss-3ac23aa0cb16------2)
+- [What happened to Internet Explorer?](https://medium.com/tech-void/what-happened-to-internet-explorer-8e4a903a69a0?source=rss-3ac23aa0cb16------2)
 <!-- BLOG-POST-LIST:END -->
