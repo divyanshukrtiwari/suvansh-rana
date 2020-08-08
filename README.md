@@ -11,7 +11,7 @@
 
 ---
 
-### Languages
+### Most used languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvansh-rana&hide_title=true&title_color=111111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -19,6 +19,7 @@
 ### Github Stats
 [![Suvansh's github stats](https://github-readme-stats.vercel.app/api?username=suvansh-rana&count_private=true&show_icons=true&hide_title=true&hide=stars&hide_rank=true&title_color=111111)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
