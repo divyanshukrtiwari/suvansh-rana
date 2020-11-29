@@ -1,6 +1,6 @@
 ### Hi there, I'm Suvansh 👋
 
-## :computer: I am a web developer and a student.
+## :spider_web: I am a web developer and a student.
 
 - 🔭 I’m currently working on [DevXplore](https://github.com/suvansh-rana/developer-search)
 - 🌱 I’m currently learning everything I find useful.
@@ -11,7 +11,7 @@
 
 ---
 
-### Projects
+### :hammer_and_wrench: Projects
 
 [![DevXplore](https://github-readme-stats.vercel.app/api/pin/?username=suvansh-rana&repo=developer-search&theme=dark)](https://github.com/suvansh-rana/developer-search)
 <br/>
