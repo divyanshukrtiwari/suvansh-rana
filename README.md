@@ -1,6 +1,6 @@
 ### Hi there, I'm Suvansh 👋
 
-## :computer: I am a full-stack developer and a student.
+## :computer: I am a web developer and a student.
 
 - 🔭 I’m currently working on [DevXplore](https://github.com/suvansh-rana/developer-search)
 - 🌱 I’m currently learning everything I find useful.
@@ -20,9 +20,9 @@
 ---
 
 ### :rocket:  Most used languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvansh-rana&hide_title=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvansh-rana&include_all_commits=false&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :bar_chart: Github Stats
-[![Suvansh's github stats](https://github-readme-stats.vercel.app/api?username=suvansh-rana&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Suvansh's github stats](https://github-readme-stats.vercel.app/api?username=suvansh-rana&count_private=true&show_icons=true&hide_title=true&hide=stars&hide_rank=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
