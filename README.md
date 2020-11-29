@@ -25,4 +25,4 @@
 ---
 
 ### :bar_chart: Github Stats
-[![Suvansh's github stats](https://github-readme-stats.vercel.app/api?username=suvansh-rana&count_private=true&show_icons=true&hide_title=true&hide=stars&hide_rank=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Suvansh's github stats](https://github-readme-stats.vercel.app/api?username=suvansh-rana&count_private=true&show_icons=true&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
