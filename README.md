@@ -19,8 +19,8 @@
 
 ---
 
-### :rocket:  Most used languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvansh-rana&include_all_commits=false&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ ### :rocket:  Most used languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvansh-rana&include_all_commits=false&hide=dart&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
