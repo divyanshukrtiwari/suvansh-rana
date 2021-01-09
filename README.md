@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on [DevXplore](https://github.com/suvansh-rana/developer-search)
 - 🌱 I’m currently learning everything I find useful.
 - :handshake: I’m looking to collaborate on unique & innovative projects.
-- 💬 Ask me about web related topics.
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/suvansh-rana)
+- 💬 Ask me about Web development.
+- 📫 Reach me at [Twitter](https://twitter.com/suvansh_rana_)
 - ⚡ Fun fact: I am groot :deciduous_tree:	
 
 ---
